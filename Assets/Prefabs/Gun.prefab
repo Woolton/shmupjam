@@ -43,4 +43,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbaafe188dfb87845a70bc1ac96cea23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tag: StandardBullet
+  tag: taban

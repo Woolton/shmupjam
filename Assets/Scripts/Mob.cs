@@ -7,7 +7,8 @@ public class Mob : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        spawnGun(gunCount);
+        InvokeRepeating("Fire", 0.5f, 2f);
     }
     void Update()
     {

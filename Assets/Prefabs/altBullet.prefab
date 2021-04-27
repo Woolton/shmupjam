@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 167866455746489593}
   - component: {fileID: 6866660735317817065}
+  - component: {fileID: -8708879036996154847}
   m_Layer: 0
   m_Name: altBullet
   m_TagString: Untagged
@@ -71,7 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6155212226941906339, guid: d875c6f0dee0cae45a2d1b761470973d,
+  m_Sprite: {fileID: 6813553822765877458, guid: d875c6f0dee0cae45a2d1b761470973d,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -83,3 +84,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-8708879036996154847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4638118350939775628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1ebaabcdb7862b458b688da02c1e794, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shotSpeed: 5
